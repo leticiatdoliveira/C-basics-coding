@@ -6,6 +6,10 @@ notes/
 **/*-todo.md
 
 ### TEMPLATE TO C REPO:
+
+# Prerequisites
+*.d
+
 # Object files
 *.o
 *.ko
